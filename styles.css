@@ -465,6 +465,7 @@ footer p {
 
 footer a {
     text-decoration: none;
+    color: var(--black);
 }
 
 .form-required {
@@ -756,6 +757,6 @@ footer a {
     }
 
     footer {
-        padding: 0 80px;
+        padding: 30px 80px;
     }
 }
